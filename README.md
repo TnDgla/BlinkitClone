@@ -114,7 +114,8 @@ The project is structured incrementally, focusing on one functionality at a time
      - **Reading**: [Node.js Installation](https://nodejs.org/en/download/)  
      - **Video**: [Setting Up Node.js and npm](https://www.youtube.com/watch?v=TlB_eWDSMt4)  
   2. Initialize the backend project with Express.js and configure JWT-based authentication.  
-     - **Reading**: [JWT Guide](https://jwt.io/introduction/)  
+     - **Reading**: [JWT Guide](https://jwt.io/introduction/)
+     - **Video**: [Express tutorial](https://www.youtube.com/watch?v=7H_QH9nipNs&t=290s)
      - **Video**: [Secure Authentication with JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM)  
 
 - **Deliverables**:
@@ -125,11 +126,11 @@ The project is structured incrementally, focusing on one functionality at a time
 #### **Week 2: Product and Category Management**
 - **Tasks**:
   1. Design product and category schemas in MongoDB.  
-     - **Reading**: [MongoDB Schema Design](https://www.mongodb.com/docs/manual/data-modeling-introduction/)  
-     - **Video**: [MongoDB Data Modeling](https://www.youtube.com/watch?v=bxsemcrY4gQ)  
+     - **Reading**: [MongoDB Schema Design](https://www.mongodb.com/docs/manual/data-modeling/)  
+     - **Video**: [MongoDB Data Modeling](https://www.youtube.com/watch?v=3GHZd0zv170)  
   2. Build APIs for CRUD operations on products and categories.  
      - **Reading**: [Express Routing](https://expressjs.com/en/guide/routing.html)  
-     - **Video**: [Building REST APIs](https://www.youtube.com/watch?v=pgpFFLCk6Lg)  
+     - **Video**: [Building REST APIs](https://www.youtube.com/watch?v=0Hu27PoloYw&t=75s)  
 
 - **Deliverables**:
   - APIs for managing products and categories.
