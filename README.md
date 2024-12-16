@@ -155,7 +155,7 @@ The project is structured incrementally, focusing on one functionality at a time
 - **Tasks**:
   1. Develop an admin panel for managing users, orders, and products.  
      - **Reading**: [React Router](https://reactrouter.com/en/main)  
-     - **Video**: [Building Dashboards in React](https://www.youtube.com/watch?v=LyLa7dU5tp8)  
+     - **Video**: [Building Dashboards in React](https://www.youtube.com/watch?v=ZP8QyCIUeIA&t=363s)  
   2. Implement real-time order tracking with Socket.io.  
      - **Reading**: [Socket.io Basics](https://socket.io/docs/v4/)  
      - **Video**: [Real-Time Features with Socket.io](https://www.youtube.com/watch?v=UUddpbgPEJM)  
@@ -172,7 +172,7 @@ The project is structured incrementally, focusing on one functionality at a time
      - **Video**: [API Testing with Postman](https://www.youtube.com/watch?v=VywxIQ2ZXw4)  
   2. Deploy the frontend and backend to hosting platforms.  
      - **Reading**: [Deploying React on Vercel](https://vercel.com/docs)  
-     - **Video**: [Deploying Full-Stack Apps](https://www.youtube.com/watch?v=WA4djj2BjDc)  
+     - **Video**: [Deploying Full-Stack Apps](https://www.youtube.com/watch?v=oIDfQC_PYdQ)  
 
 - **Deliverables**:
   - Fully deployed application with public URL.
