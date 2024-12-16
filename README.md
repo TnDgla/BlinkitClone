@@ -195,6 +195,8 @@ This project is structured to ensure a smooth, step-by-step approach to developm
 2. [Express.js Documentation](https://expressjs.com/)  
 3. [MongoDB Documentation](https://www.mongodb.com/docs/manual/)  
 4. [Stripe API Docs](https://stripe.com/docs/api)  
-5. [Tailwind CSS Docs](https://tailwindcss.com/docs)  
+5. [Tailwind CSS Docs](https://tailwindcss.com/docs)
+6. https://github.com/IsAmitprajapati/BlinkIt-Clone-Full-Stack-Ecommerce
+7. https://www.youtube.com/watch?v=sgJlE0utgHU&t=230s
 
 ---
