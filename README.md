@@ -140,11 +140,11 @@ The project is structured incrementally, focusing on one functionality at a time
 #### **Week 3: Cart Management and Checkout**
 - **Tasks**:
   1. Implement cart functionality with add, remove, and quantity update features.  
-     - **Reading**: [React State Management](https://reactjs.org/docs/state-and-lifecycle.html)  
+     - **Reading**: [React State Management](https://react.dev/learn/managing-state)  
      - **Video**: [State Management in React](https://www.youtube.com/watch?v=35lXWvCuM8o)  
   2. Integrate the Stripe payment gateway.  
-     - **Reading**: [Stripe API Documentation](https://stripe.com/docs/api)  
-     - **Video**: [Stripe Integration Guide](https://www.youtube.com/watch?v=ZxMB6Njs3pk)  
+     - **Reading**: [Stripe API Documentation](https://docs.stripe.com/api)  
+     - **Video**: [Stripe Integration Guide](https://www.youtube.com/watch?v=volAze3fpt0&t=44s)  
 
 - **Deliverables**:
   - Functional cart and secure checkout process.
