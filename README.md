@@ -102,7 +102,9 @@ This section illustrates the architecture of the **Blinkit Clone App**, showcasi
 
 ### **Project Structure for Feature Implementation**
 
-The project is structured incrementally, focusing on one functionality at a time to ensure clarity and seamless integration.
+This project is structured to ensure a smooth, step-by-step approach to development, from authentication to event management, with each feature building upon the last.
+
+**NOTE:** Customizations and feature improvements are encouraged to enhance user experience.
 
 ---
 
